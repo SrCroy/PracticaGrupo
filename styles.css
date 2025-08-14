@@ -13,3 +13,6 @@ body {
 .container__ivan h2 {
     color: blue;
 }
+.descripcion {
+    text-align: center;
+}
