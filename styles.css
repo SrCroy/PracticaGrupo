@@ -4,6 +4,8 @@
     height: 100px;
     background-color: black;
     border-radius: 50%;
+    background-size: cover;
+    background-image: url(img/Imagen\ de\ WhatsApp\ 2025-03-28\ a\ las\ 08.10.01_f0845769.jpg);
 }
 .contenedor__texto__Fatima
 {
