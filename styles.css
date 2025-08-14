@@ -1,0 +1,27 @@
+.contenedor__foto__Fatima
+{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    border-radius: 50%;
+}
+.contenedor__texto__Fatima
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.contenedor__texto__Fatima h1, h3
+{
+    color: rgb(242, 12, 169);
+}
+.section__Fatima {
+    margin: 15px auto;
+    padding: 10px;
+    text-align: center;
+    width: 60%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
